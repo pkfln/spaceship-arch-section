@@ -96,7 +96,7 @@ source "~/.zsh/spaceship-arch-section/spaceship-arch-section.plugin.zsh"
 
 ## Usage
 
-After installing, add the following line to your `.zshrc` in order to include Ember section in the prompt:
+After installing, add the following line to your `.zshrc` in order to include Arch section in the prompt:
 
 ```zsh
 spaceship add arch
